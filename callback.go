@@ -15,7 +15,7 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/BenLubar/steamworks/internal"
+	"github.com/zyedidia/steamworks/internal"
 )
 
 // Registration is an opaque type that represents a registered callback.

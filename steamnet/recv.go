@@ -4,8 +4,8 @@ import (
 	"sync"
 	"unsafe"
 
-	"github.com/BenLubar/steamworks"
-	"github.com/BenLubar/steamworks/internal"
+	"github.com/zyedidia/steamworks"
+	"github.com/zyedidia/steamworks/internal"
 )
 
 var packetLock sync.Mutex

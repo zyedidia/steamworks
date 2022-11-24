@@ -3,7 +3,7 @@ package steamcontroller
 import (
 	"unsafe"
 
-	"github.com/BenLubar/steamworks/internal"
+	"github.com/zyedidia/steamworks/internal"
 )
 
 // ActionSetHandle is used to refer to specific in-game actions or action sets.

@@ -4,8 +4,8 @@ import (
 	"encoding/binary"
 	"net"
 
-	"github.com/BenLubar/steamworks"
-	"github.com/BenLubar/steamworks/internal"
+	"github.com/zyedidia/steamworks"
+	"github.com/zyedidia/steamworks/internal"
 )
 
 // SessionState is the current connection state to a specified user, returned

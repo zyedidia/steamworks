@@ -1,8 +1,8 @@
 package steamnet
 
 import (
-	"github.com/BenLubar/steamworks"
-	"github.com/BenLubar/steamworks/internal"
+	"github.com/zyedidia/steamworks"
+	"github.com/zyedidia/steamworks/internal"
 )
 
 // CloseChannel closes a P2P channel when you're done talking to a user on the
